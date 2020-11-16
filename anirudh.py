@@ -9,4 +9,4 @@ os.system("figlet WHOIS BY ANIRUDH")
 
 
 url = raw_input("[+] Enter website : ")
-os.system("whois %s" (url))
+os.system("whois %s" % (url))
